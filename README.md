@@ -35,7 +35,7 @@
         <br />
         <div align="center">
             <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-                <img src="https://github-profile-trophy.vercel.app/?username=rambhosale&theme=nord&column=7" alt="Trophies" />
+                <img src="https://github-readme-activity-graph.vercel.app/?username=rambhosale&theme=nord&column=7" alt="Trophies" />
             </a>
         </div>
     </div>
