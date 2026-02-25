@@ -2,7 +2,7 @@
 
 # Hey there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="28px" height="28px"> I'm **Ram Bhosale**
 
-**Backend Engineer · CLI Tinkerer · Vim Enthusiast**
+**I build backends that don't break · I write CLI tools for fun · I live in the terminal**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ram-bhosale)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rambhosale9@gmail.com)
@@ -16,19 +16,36 @@
 
 ### 🧑‍💻 About Me
 
-I'm a backend engineer from **Pune, India** with **7+ years** of experience. I love building things that are fast, reliable, and well-architected — mostly in the **fintech** and **SaaS** space.
+I'm a backend engineer from **Pune, India** — I've been doing this for **7+ years** and I genuinely enjoy it. Most of my work has been in **fintech** and **SaaS**, where uptime isn't optional and bad architecture shows up fast.
 
-Day-to-day, I work with **Node.js**, **TypeScript**, and **NestJS** to build backend services that handle real financial workflows at scale. I've also spent a lot of time with **PHP/Laravel**, and I'm currently exploring **Go** and **Rust** for systems-level work.
+My go-to stack is **Node.js + TypeScript + NestJS**, but I've shipped production systems in **PHP/Laravel** too. I also build **CLI tools** and **automation scripts** in **Python** and **Go** — if a task takes more than two manual steps, I'll script it.
 
-Outside of product work, I enjoy writing **CLI tools** and **automation scripts** in **Python** and **Go** — anything that saves time or makes the dev experience smoother.
+I'm a hardcore **Vim/Neovim** user. Terminal-first, mouse-never. 🖤
 
-- 🔭 Currently leading backend engineering on a **fintech SaaS platform** serving credit intermediaries in Italy
-- ☁️ Led a **zero-downtime cloud migration** to GCP with Kubernetes & GitOps
-- 🔗 Designed integration layers that unify messy external APIs into clean internal interfaces
-- 🛡️ Built **GDPR-compliant** audit and traceability systems for financial data
-- ⚡ Obsessed with **query optimization** — achieved up to 30x gains on production databases
-- 🌱 Currently diving deeper into **Go** and **Rust**
-- ⌨️ Hardcore **Vim/Neovim** user — terminal-first, mouse-never 🖤
+---
+
+### � What I'm Good At
+
+- ⚙️ **Backend Architecture** — designing systems that scale, stay consistent, and don't fall over at 3am
+- 🔗 **API Design** — clean, versioned REST APIs with proper validation, error handling, and integration patterns
+- 🗄️ **Database Performance** — schema design, query optimization (up to **30x gains**), indexing strategies
+- ☁️ **Cloud & Infrastructure** — GCP, AWS, Kubernetes, Docker, CI/CD, GitOps — I've migrated systems across clouds with **zero downtime**
+- 🛡️ **Security & Compliance** — GDPR-compliant audit systems, PII handling, RBAC with Keycloak
+- 🔄 **Distributed Systems** — Redis caching, cache invalidation, async processing, fault-tolerance patterns
+- 📬 **High-Volume Messaging** — email delivery systems pushing **150k+ emails/day** on AWS SES
+- 🛠️ **Developer Tooling** — CLI tools, automation scripts, anything that makes the team faster
+
+---
+
+### 🚀 Things I've Built
+
+**FinTech** — Currently leading backend on a **regulated fintech SaaS platform** in Italy. Designed a unified integration layer that abstracts messy external financial APIs into a clean internal interface. Built audit and traceability systems for financial data. The platform serves the **5th largest credit intermediation firm** in the country.
+
+**EdTech & LMS** — Architected a full **Learning Management System** — class scheduling, enrollment workflows, batch coordination. Built a **video learning platform** with live + pre-recorded sessions and **Zoom integration** for real-time classes with attendance tracking and session lifecycle management.
+
+**Payments** — Designed a **class booking platform** with integrated payment processing — gateway integration, transaction validation, secure checkout flows, and payment reconciliation.
+
+**SaaS Platforms** — Built backend systems for talent management and workforce platforms handling high-traffic user workflows.
 
 ---
 
