@@ -75,13 +75,13 @@ Outside of product work, I enjoy writing **CLI tools** and **automation scripts*
     <img width="49%" src="https://streak-stats.demolab.com/?user=rambhosale&theme=tokyonight&hide_border=true" alt="Streak Stats" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Stats">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rambhosale&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rambhosale&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Top Languages">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rambhosale&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rambhosale&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
   </a>
 </div>
 
