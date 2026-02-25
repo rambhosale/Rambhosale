@@ -22,7 +22,7 @@
 
 ## `> whoami` 
 
-I'm a backend engineer from **Pune, India** — been doing this for **7+ years** and I genuinely love it. Most of my work lives in the **fintech** and **SaaS** world, where uptime isn't optional and bad architecture shows up fast.
+I'm a backend engineer based in **Pune** and **Bengaluru, India** — been coding for over **15 years** and working professionally for **8+**. Most of my work lives in the **fintech** and **SaaS** world, where uptime isn't optional and bad architecture shows up fast.
 
 My go-to stack is **Node.js + TypeScript + NestJS**, but I've shipped production systems in **PHP/Laravel** too. I also build **CLI tools** and **automation scripts** in **Go** and **Python** — if a task takes more than two manual steps, I'll script it.
 
