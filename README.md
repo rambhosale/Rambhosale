@@ -47,6 +47,8 @@ I'm a hardcore **Vim/Neovim** user. Terminal-first, mouse-never. 🖤
 
 **SaaS Platforms** — Built backend systems for talent management and workforce platforms handling high-traffic user workflows.
 
+**CLI & Automation** — Built multiple custom CLI tools in **Go** for personal productivity, automated workflows, and internal tooling — from deployment helpers to data processing pipelines. If it can be automated, it probably should be.
+
 ---
 
 ### 🧰 What I Work With
