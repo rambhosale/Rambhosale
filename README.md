@@ -170,10 +170,6 @@ Built custom CLI tools in **Go** for personal productivity, automated workflows 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rambhosale&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
 </div>
 
-<div align="center">
-  <img src="https://ghchart.rshah.org/70a5fd/rambhosale" alt="Contributions Graph" width="98%" />
-</div>
-
 <br>
 
 ## 🤝 Let's Connect
