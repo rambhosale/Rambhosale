@@ -18,15 +18,15 @@
     </path>
     <path fill="#ffffff" fill-opacity="0.12"
           d="M-600,170 Q-450,135 -300,170 T0,170 T300,170 T600,170 T900,170 T1200,170 L1200,240 L-600,240 Z">
-      <animateTransform attributeName="transform" type="translate" from="-600 0" to="0 0" dur="16s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="600 0" dur="16s" repeatCount="indefinite"/>
     </path>
     <path fill="#0f172a" fill-opacity="0.35"
           d="M0,195 Q150,165 300,195 T600,195 T900,195 T1200,195 T1500,195 T1800,195 L1800,240 L0,240 Z">
       <animateTransform attributeName="transform" type="translate" from="0 0" to="-600 0" dur="11s" repeatCount="indefinite"/>
     </path>
     <path fill="#0f172a" fill-opacity="0.55"
-          d="M-500,215 Q-250,195 0,215 T500,215 T1000,215 T1500,215 T2000,215 L2000,240 L-500,240 Z">
-      <animateTransform attributeName="transform" type="translate" from="-500 0" to="0 0" dur="14s" repeatCount="indefinite"/>
+          d="M-1000,215 Q-750,195 -500,215 T0,215 T500,215 T1000,215 T1500,215 L1500,240 L-1000,240 Z">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="1000 0" dur="14s" repeatCount="indefinite"/>
     </path>
   </g>
 
