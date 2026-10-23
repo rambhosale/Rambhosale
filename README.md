@@ -152,15 +152,15 @@ Built multiple custom CLI tools in <b>Go</b> for personal productivity, automate
 
 <div align="center">
   <img width="49%" src="https://streak-stats.demolab.com/?user=rambhosale&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rambhosale&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rambhosale&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rambhosale&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rambhosale&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rambhosale&theme=tokyo-night&hide_border=true&area=true" alt="Contributions Graph" width="98%" />
+  <img src="https://ghchart.rshah.org/70a5fd/rambhosale" alt="Contributions Graph" width="98%" />
 </div>
 
 ---
