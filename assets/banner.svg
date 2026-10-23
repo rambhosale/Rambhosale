@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 240" width="1200" height="240" role="img" aria-label="Ram Bhosale: Backend, Cloud, Agent-Driven Engineering">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f172a"/>
+      <stop offset="0.55" stop-color="#1d4ed8"/>
+      <stop offset="1" stop-color="#70a5fd"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="240" fill="url(#bg)"/>
+
+  <!-- Each wave is 3 periods wide and slides exactly one period, so the loop is seamless.
+       Different periods, amplitudes, speeds and directions keep the motion organic. -->
+  <g>
+    <path fill="#ffffff" fill-opacity="0.10"
+          d="M0,150 Q200,100 400,150 T800,150 T1200,150 T1600,150 T2000,150 L2000,240 L0,240 Z">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-800 0" dur="22s" repeatCount="indefinite"/>
+    </path>
+    <path fill="#ffffff" fill-opacity="0.12"
+          d="M-600,170 Q-450,135 -300,170 T0,170 T300,170 T600,170 T900,170 T1200,170 L1200,240 L-600,240 Z">
+      <animateTransform attributeName="transform" type="translate" from="-600 0" to="0 0" dur="16s" repeatCount="indefinite"/>
+    </path>
+    <path fill="#0f172a" fill-opacity="0.35"
+          d="M0,195 Q150,165 300,195 T600,195 T900,195 T1200,195 T1500,195 T1800,195 L1800,240 L0,240 Z">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-600 0" dur="11s" repeatCount="indefinite"/>
+    </path>
+    <path fill="#0f172a" fill-opacity="0.55"
+          d="M-500,215 Q-250,195 0,215 T500,215 T1000,215 T1500,215 T2000,215 L2000,240 L-500,240 Z">
+      <animateTransform attributeName="transform" type="translate" from="-500 0" to="0 0" dur="14s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <g text-anchor="middle" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" fill="#ffffff">
+    <text x="600" y="102" font-size="58" font-weight="700" letter-spacing="1">Ram Bhosale
+      <animate attributeName="opacity" from="0" to="1" dur="1.2s" fill="freeze"/>
+    </text>
+    <text x="600" y="140" font-size="20" fill-opacity="0.92" letter-spacing="1.5">Backend · Cloud · Agent-Driven Engineering
+      <animate attributeName="opacity" from="0" to="1" begin="0.4s" dur="1.2s" fill="freeze"/>
+    </text>
+  </g>
+</svg>

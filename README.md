@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:1d4ed8,100:70a5fd&text=Ram%20Bhosale&fontColor=ffffff&fontSize=60&fontAlignY=38&animation=fadeIn&desc=Backend%20%C2%B7%20Cloud%20%C2%B7%20Agent-Driven%20Engineering&descSize=20&descAlignY=60" alt="Ram Bhosale" width="100%" />
+<img src="assets/banner.svg" alt="Ram Bhosale: Backend, Cloud, Agent-Driven Engineering" width="100%" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&width=640&height=40&lines=I+build+backends+that+don't+break+%F0%9F%9A%80;Infrastructure+as+code+with+Terraform+%26+AWS+%E2%98%81%EF%B8%8F;Shipping+faster+with+AI+coding+agents+%F0%9F%A4%96;Terminal-first.+Neovim+all+the+way.+%F0%9F%96%A4" alt="Typing SVG" /></a>
 
