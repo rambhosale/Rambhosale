@@ -1,154 +1,165 @@
 <div align="center">
 
-<!-- Typing SVG Header -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hey+there!+I'm+Ram+Bhosale+%F0%9F%91%8B;I+build+backends+that+don't+break+%F0%9F%9A%80" alt="Typing SVG" /></a>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:1d4ed8,100:70a5fd&text=Ram%20Bhosale&fontColor=ffffff&fontSize=60&fontAlignY=38&animation=fadeIn&desc=Backend%20%C2%B7%20Cloud%20%C2%B7%20Agent-Driven%20Engineering&descSize=20&descAlignY=60" alt="Ram Bhosale" width="100%" />
 
-<br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&width=640&height=40&lines=I+build+backends+that+don't+break+%F0%9F%9A%80;Infrastructure+as+code+with+Terraform+%26+AWS+%E2%98%81%EF%B8%8F;Shipping+faster+with+AI+coding+agents+%F0%9F%A4%96;Terminal-first.+Neovim+all+the+way.+%F0%9F%96%A4" alt="Typing SVG" /></a>
 
-**`Backend Engineer`** · **`CLI Tinkerer`** · **`Vim Devotee`**
-
-<br>
+<br><br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ram-bhosale)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rambhosale)
-![Profile Views](https://komarev.com/ghpvc/?username=rambhosale&style=for-the-badge&color=0e75b6)
+![Location](https://img.shields.io/badge/Pune_%C2%B7_Bengaluru-India-FF9933?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Profile Views](https://komarev.com/ghpvc/?username=rambhosale&style=for-the-badge&color=1d4ed8&label=PROFILE+VIEWS)
+
+<sub>[About](#-about) · [Focus](#-current-focus) · [Skills](#-skills) · [Projects](#-projects) · [Stack](#-tech-stack) · [Stats](#-github-stats) · [Connect](#-lets-connect)</sub>
 
 </div>
 
 <br>
 
-<!-- About Me -->
-<img align="right" src="https://c.tenor.com/NeJfHqkmdMIAAAAi/tux-linux-penguin.gif" width="100" />
+## 👋 About
 
-## `> whoami` 
+Backend engineer with **15+ years** of coding and **8+** professionally, working mostly in **fintech** and **SaaS**, where uptime isn't optional and bad architecture shows up fast.
 
-I'm a backend engineer based in **Pune** and **Bengaluru, India** — been coding for over **15 years** and working professionally for **8+**. Most of my work lives in the **fintech** and **SaaS** world, where uptime isn't optional and bad architecture shows up fast.
+> **Core stack:** Node.js · TypeScript · NestJS &nbsp;|&nbsp; **Also:** PHP/Laravel, Go, Python
+> **Infra:** AWS · GCP · Terraform · Kubernetes &nbsp;|&nbsp; **Workflow:** AI coding agents + Neovim
 
-My go-to stack is **Node.js + TypeScript + NestJS**, but I've shipped production systems in **PHP/Laravel** too. I also build **CLI tools** and **automation scripts** in **Go** and **Python** — if a task takes more than two manual steps, I'll script it.
-
-Hardcore **Vim/Neovim** user. Terminal-first, mouse-never. 🖤
+If a task takes more than two manual steps, I'll script it.
 
 <br>
 
----
+## 🔭 Current Focus
 
-<!-- What I'm Good At -->
-## `> cat skills.txt`
+| | |
+|---|---|
+| ☁️ **Cloud & IaC** | Provisioning and operating **AWS** with **Terraform**: modules, remote state, CI-driven plan/apply |
+| 🤖 **Agentic engineering** | **Claude Code**, MCP servers and custom skills/subagents for refactors, reviews and test generation |
+| 🧩 **LLM features** | Tool use, retrieval and evals inside backend services |
+| 🛠️ **Developer tooling** | Small **Go CLIs** that wrap repetitive workflows |
+
+<br>
+
+## 🧰 Skills
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ⚙️ Backend & Architecture
-- Designing systems that scale and stay up
-- Clean, versioned REST APIs with proper patterns
-- Microservices, async processing, fault tolerance
-- GDPR-compliant audit systems & PII handling
-- Auth & RBAC with Keycloak
+#### ⚙️ Backend & Architecture
+- Scalable, fault-tolerant service design
+- Versioned REST APIs, microservices, async processing
+- Event-driven systems and queues
+- GDPR-compliant audit trails and PII handling
+- Auth and RBAC with Keycloak
 
 </td>
 <td width="50%" valign="top">
 
-### ☁️ Cloud & DevOps
-- GCP & AWS — migrated systems with **zero downtime**
-- Kubernetes, Docker, GitOps workflows
-- CI/CD pipelines for containerized services
-- Infrastructure as code & deployment automation
+#### ☁️ Cloud & Infrastructure as Code
+- **AWS**: EC2, ECS/EKS, Lambda, RDS, S3, SES, IAM, VPC, CloudWatch
+- **Terraform**: reusable modules, remote state, multi-environment setups
+- **GCP** and zero-downtime cloud migrations
+- Kubernetes, Docker, GitOps
+- CI/CD with GitHub Actions
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### �️ Data & Performance
-- PostgreSQL, MySQL — schema design & optimization
-- Query tuning with up to **30x performance gains**
-- Redis caching & distributed cache invalidation
-- High-volume messaging (**150k+ emails/day** on SES)
+#### 🤖 Agent-Driven Development
+- Agentic workflows with **Claude Code**
+- Custom **skills**, **subagents** and **hooks** that encode team conventions
+- **MCP** servers connecting agents to tools and data
+- Spec-first prompting, plan → implement → review loops
+- Agents for refactoring, tests, review and infra changes, with humans accountable for what ships
 
 </td>
 <td width="50%" valign="top">
 
-### 🛠️ Tooling & Automation
-- Custom CLIs in **Go** for dev workflows
-- Automation scripts in **Python** & **Go**
-- Developer tooling & internal productivity tools
-- Neovim config craftsman 🧙
+#### 🗄️ Data & Performance
+- PostgreSQL, MySQL: schema design and optimization
+- Query tuning with up to **30x** gains
+- Redis caching and distributed invalidation
+- High-volume messaging (**150k+ emails/day** on SES)
 
 </td>
 </tr>
 </table>
 
----
+<br>
 
-<!-- Things I've Built -->
-## `> ls projects/`
+## 🚀 Projects
 
 <details>
-<summary><b>💰 FinTech SaaS Platform</b></summary>
+<summary><b>💰 FinTech SaaS Platform</b> &nbsp;·&nbsp; <sub>NestJS · PostgreSQL · Keycloak</sub></summary>
 <br>
-Leading backend on a <b>regulated fintech SaaS platform</b> in Italy. Designed a unified integration layer that abstracts messy external financial APIs into a clean internal interface. Built audit and traceability systems for financial data. The platform serves the <b>5th largest credit intermediation firm</b> in the country.
+
+Leading backend on a **regulated fintech SaaS platform** in Italy. Designed a unified integration layer that abstracts messy external financial APIs into a clean internal interface, and built audit and traceability systems for financial data. The platform serves the **5th largest credit intermediation firm** in the country.
+
 </details>
 
 <details>
-<summary><b>🎓 Learning Management System</b></summary>
+<summary><b>🎓 Learning Management System</b> &nbsp;·&nbsp; <sub>Scheduling · Video · Zoom</sub></summary>
 <br>
-Architected a full <b>LMS</b> — class scheduling, enrollment workflows, batch coordination. Built a <b>video learning platform</b> with live + pre-recorded sessions and <b>Zoom integration</b> for real-time classes with attendance tracking and session lifecycle management.
+
+Architected a full **LMS**: class scheduling, enrollment workflows and batch coordination. Built a **video learning platform** with live and pre-recorded sessions, and **Zoom integration** for real-time classes with attendance tracking and session lifecycle management.
+
 </details>
 
 <details>
-<summary><b>💳 Payments & Booking Platform</b></summary>
+<summary><b>💳 Payments & Booking Platform</b> &nbsp;·&nbsp; <sub>Gateways · Reconciliation</sub></summary>
 <br>
-Designed a <b>class booking platform</b> with integrated payment processing — gateway integration, transaction validation, secure checkout flows, and payment reconciliation.
+
+Designed a **class booking platform** with integrated payment processing: gateway integration, transaction validation, secure checkout flows and payment reconciliation.
+
 </details>
 
 <details>
-<summary><b>🔧 CLI Tools & Automation</b></summary>
+<summary><b>☁️ Cloud Migrations & IaC</b> &nbsp;·&nbsp; <sub>AWS · GCP · Terraform</sub></summary>
 <br>
-Built multiple custom CLI tools in <b>Go</b> for personal productivity, automated workflows, and internal tooling — from deployment helpers to data processing pipelines. If it can be automated, it probably should be.
+
+Migrated production systems between clouds with **zero downtime**, and codified infrastructure with **Terraform** and container-based deployment pipelines so environments are reproducible and reviewable.
+
 </details>
 
----
+<details>
+<summary><b>🔧 CLI Tools & Automation</b> &nbsp;·&nbsp; <sub>Go · Python</sub></summary>
+<br>
 
-<!-- Tech Stack -->
-## `> which tools`
+Built custom CLI tools in **Go** for personal productivity, automated workflows and internal tooling, from deployment helpers to data processing pipelines. If it can be automated, it probably should be.
+
+</details>
+
+<br>
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-#### Languages & Frameworks
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
+**Languages & Frameworks**<br>
+<img src="https://skillicons.dev/icons?i=nodejs,ts,js,nestjs,express,php,laravel,go,py,rust,lua&perline=11" alt="Languages and frameworks" />
 
-#### Data & Caching
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+**Cloud & Infrastructure**<br>
+<img src="https://skillicons.dev/icons?i=aws,terraform,gcp,kubernetes,docker,githubactions,nginx,linux&perline=8" alt="Cloud and infrastructure" />
 
-#### Cloud, DevOps & Tools
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
+**Data & Caching**<br>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis&perline=3" alt="Data and caching" />
+
+**Dev Environment**<br>
+<img src="https://skillicons.dev/icons?i=neovim,git&perline=2" alt="Dev environment" />
+
+**AI & Agentic Development**<br>
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-1F6FEB?style=for-the-badge)
+![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
 </div>
 
----
+<br>
 
-<!-- GitHub Stats -->
-## `> git stats`
+## 📊 GitHub Stats
 
 <div align="center">
   <img width="49%" src="https://streak-stats.demolab.com/?user=rambhosale&theme=tokyonight&hide_border=true" alt="Streak Stats" />
@@ -163,20 +174,16 @@ Built multiple custom CLI tools in <b>Go</b> for personal productivity, automate
   <img src="https://ghchart.rshah.org/70a5fd/rambhosale" alt="Contributions Graph" width="98%" />
 </div>
 
----
+<br>
+
+## 🤝 Let's Connect
 
 <div align="center">
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=2000&color=70A5FD&center=true&vCenter=true&width=450&lines=Let's+connect+and+build+something+awesome!" alt="Connect" />
-
-<br><br>
+Open to talking backend architecture, cloud infrastructure and agent-driven workflows.
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ram-bhosale)
 
-<br>
-
-⭐ **Show some ❤️ by starring my repositories!**
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:70a5fd,50:1d4ed8,100:0f172a&section=footer" alt="" width="100%" />
 
 </div>
